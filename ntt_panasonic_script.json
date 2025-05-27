@@ -1,0 +1,37 @@
+{
+    "$mulmocast": {
+      "version": "1.0",
+      "credit": "closing"
+    },
+    "title": "企業再編と構造改革：NTTとパナソニックの戦略",
+    "lang": "ja",
+    "canvasSize": {
+      "width": 1536,
+      "height": 1024
+    },
+    "imageParams": {
+      "style": "A multi panel comic strips. Ghibli style. The presenter is a young woman with dark short hair and glasses."
+    },
+    "references": [
+      {
+        "url": "https://aoba-bbt.com/ohmae_blog/4734/",
+        "title": "KON1084「NTTの社名変更とグループ再編／パナソニック1万人削減」",
+        "type": "article"
+      }
+    ],
+    "beats": [
+      {
+        "text": "今日は、大前研一氏のブログ記事『KON1084』をもとに、NTTとパナソニックの企業再編と構造改革について探ります。"
+      },
+      {
+        "text": "まず、NTTは社名を『日本電信電話』から『NTT』へ正式に変更し、NTTデータグループを完全子会社化することで、経営の非効率を是正し、グローバル競争力を高める狙いがあります。"
+      },
+      {
+        "text": "一方、パナソニックは全従業員の4%にあたる1万人の人員削減を発表しました。これは、重複する間接部門の効率化と、新たな成長戦略への転換を図るための措置です。"
+      },
+      {
+        "text": "これらの動きは、企業が変化する市場環境に適応し、持続可能な成長を目指すための重要なステップです。"
+      }
+    ]
+  }
+  

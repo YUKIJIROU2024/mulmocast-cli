@@ -1,0 +1,42 @@
+{
+  "$mulmocast": {
+    "version": "1.0",
+    "credit": "closing"
+  },
+  "title": "World War II: A Global Catastrophe Explored",
+  "lang": "en",
+  "canvasSize": {
+    "width": 1536,
+    "height": 1024
+  },
+  "imageParams": {
+    "style": "A multi-panel comic strip. Ghibli style. The presenter is a young woman with dark short hair and glasses."
+  },
+  "references": [
+    {
+      "url": "https://lexfridman.com/james-holland-transcript",
+      "title": "Transcript for James Holland: World War II, Hitler, Churchill, Stalin & Biggest Battles | Lex Fridman Podcast #470",
+      "type": "article"
+    }
+  ],
+  "beats": [
+    {
+      "text": "Today, we delve into the profound insights shared by historian James Holland on the Lex Fridman Podcast. Their discussion sheds light on the vast and complex nature of World War II, emphasizing its global impact and the human experiences within it."
+    },
+    {
+      "text": "Holland describes World War II as a truly global conflict, fought across deserts, oceans, jungles, and cities. He emphasizes the war's reach, affecting countless lives and reshaping nations."
+    },
+    {
+      "text": "A poignant story shared is that of Sam Bradshaw, a tank commander from Liverpool. After serving in North Africa and Italy, and being wounded twice, he returned home only to find a changed world, leading him to rejoin the fight and witness the liberation of concentration camps."
+    },
+    {
+      "text": "The podcast also explores the ideological underpinnings of the war, discussing Hitler's ambitions and the catastrophic consequences of totalitarian regimes. Holland and Fridman examine how such ideologies led to unprecedented atrocities."
+    },
+    {
+      "text": "Technological advancements played a crucial role in the war. From the development of tanks to the strategic use of aircraft, the conflict spurred rapid innovations that changed warfare forever."
+    },
+    {
+      "text": "The conversation concludes with reflections on the lessons learned from World War II. Holland emphasizes the importance of remembering history to understand the present and prevent future conflicts."
+    }
+  ]
+}
